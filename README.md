@@ -21,7 +21,7 @@ I'm a passionate **Cybersecurity** with a focus on protecting systems and data. 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xzerite&theme=default)
 
 ## 🔤 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xzerite&layout=compact&theme=radical)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xzerite&theme=default)
 
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=xzerite&theme=tokyonight)
