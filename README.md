@@ -62,5 +62,5 @@ Feel free to check out my repositories for contributions to open-source cybersec
 ---
 
 ## 🧑‍💻 Contribution Graph
-![GitHub Contributions](https://github.com/xzerite/xzerite/blob/main/contributions.svg)
+![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xzerite&theme=default)
 
