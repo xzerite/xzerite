@@ -18,10 +18,10 @@ I'm a passionate **Cybersecurity** with a focus on protecting systems and data. 
 - **Certifications**: ON MY LINKEDIN PROFILE, CERTIFICATIONS SECTION.
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XZERITE&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xzerite&show_icons=true&theme=radical)
 
 ## 🔤 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XZERITE&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xzerite&layout=compact&theme=radical)
 
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=xzerite&theme=tokyonight)
