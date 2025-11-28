@@ -62,5 +62,5 @@ Feel free to check out my repositories for contributions to open-source cybersec
 ---
 
 ## 🧑‍💻 Contribution Graph
-![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=xzerite&theme=tokyo-night)
+![GitHub Contributions](https://github.com/xzerite/xzerite/blob/main/contributions.svg)
 
