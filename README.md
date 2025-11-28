@@ -18,7 +18,7 @@ I'm a passionate **Cybersecurity** with a focus on protecting systems and data. 
 - **Certifications**: ON MY LINKEDIN PROFILE, CERTIFICATIONS SECTION.
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xzerite&theme=default)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xzerite&theme=default)
 
 ## 🔤 Top Languages
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xzerite&theme=default)
